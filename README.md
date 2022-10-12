@@ -11,3 +11,6 @@ How deep neural networks detect the disease.
 You will be able to know how to find the accuracy of the model.
 
 You will be able to build web applications using the Flask framework.
+
+
+## Team Members 
