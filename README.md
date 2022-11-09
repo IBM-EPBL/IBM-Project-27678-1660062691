@@ -71,3 +71,6 @@ Precautions excel files contain the precautions for all kinds of diseases.
 Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
 
 IBM folder contains IBM deployment files.
+
+
+## Data Collection
