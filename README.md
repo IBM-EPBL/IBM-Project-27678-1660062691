@@ -48,3 +48,26 @@ Test the model.
 Save the model and its dependencies.
 
 Build a Web application using a flask that integrates with the model built.
+
+
+## Project Structure
+
+The dataset folder contains two folders for the fruit and vegetable dataset which again contains a test and train folder, each of them have images of different diseases.
+
+The Flask folder has all the files necessary to build the flask application. 
+
+the static folder has the images, style sheets, and scripts that are needed in building the web page.
+
+templates folder has the HTML pages.
+
+uploads folder has the uploads made by the user
+
+app.py is the python script for server-side computing.
+
+.h5 files are the model files that are to be saved after model building.
+
+precautions excel files contain the precautions for all kinds of diseases.
+
+Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
+
+IBM folder contains IBM deployment files.
