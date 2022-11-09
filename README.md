@@ -74,3 +74,5 @@ IBM folder contains IBM deployment files.
 
 
 ## Data Collection
+
+### The first step is to download the dataset 
