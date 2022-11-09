@@ -76,3 +76,5 @@ IBM folder contains IBM deployment files.
 ## Data Collection
 
 ### The first step is to download the dataset 
+
+Create Train and Test folders with each folder having subfolders with leaf images of different plant diseases. You can collect datasets from different open sources like kaggle.com, data.gov, UCI machine learning repository, etc. The folder contains the provided in the project structure section has the link from where you can download datasets that can be used for training. Two datasets will be used, we will be creating two models one to detect vegetable leaf diseases like tomato, potato, and pepper plants and the second model would be for fruits diseases like corn, peach, and apple.  
