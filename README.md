@@ -56,7 +56,7 @@ The dataset folder contains two folders for the fruit and vegetable dataset whic
 
 The Flask folder has all the files necessary to build the flask application. 
 
-the static folder has the images, style sheets, and scripts that are needed in building the web page.
+The static folder has the images, style sheets, and scripts that are needed in building the web page.
 
 templates folder has the HTML pages.
 
