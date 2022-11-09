@@ -60,7 +60,7 @@ The static folder has the images, style sheets, and scripts that are needed in b
 
 Templates folder has the HTML pages.
 
-uploads folder has the uploads made by the user
+Uploads folder has the uploads made by the user
 
 app.py is the python script for server-side computing.
 
