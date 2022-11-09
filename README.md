@@ -66,7 +66,7 @@ app.py is the python script for server-side computing.
 
 .h5 files are the model files that are to be saved after model building.
 
-precautions excel files contain the precautions for all kinds of diseases.
+Precautions excel files contain the precautions for all kinds of diseases.
 
 Fruit-Training.ipynb, Vegetable-Training, and Plant-Disease-Testing.ipynb are the training and testing notebooks.
 
