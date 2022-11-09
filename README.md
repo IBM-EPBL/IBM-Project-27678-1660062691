@@ -77,4 +77,22 @@ IBM folder contains IBM deployment files.
 
 ### The first step is to download the dataset 
 
-Create Train and Test folders with each folder having subfolders with leaf images of different plant diseases. You can collect datasets from different open sources like kaggle.com, data.gov, UCI machine learning repository, etc. The folder contains the provided in the project structure section has the link from where you can download datasets that can be used for training. Two datasets will be used, we will be creating two models one to detect vegetable leaf diseases like tomato, potato, and pepper plants and the second model would be for fruits diseases like corn, peach, and apple.  
+Create Train and Test folders with each folder having subfolders with leaf images of different plant diseases. You can collect datasets from different open sources like kaggle.com, data.gov, UCI machine learning repository, etc. The folder contains the provided in the project structure section has the link from where you can download datasets that can be used for training. Two datasets will be used, we will be creating two models one to detect vegetable leaf diseases like tomato, potato, and pepper plants and the second model would be for fruits diseases like corn, peach, and apple.
+
+
+## Image Preprocessing
+
+Now that we have all the data collected, let us use this data to train the model . before training the model you have to preprocess the images and then feed them on to the model for training. We make use of Keras ImageDataGenerator  class for image preprocessing.
+
+Image Pre-processing includes the following main tasks:
+
+Import ImageDataGenerator Library.
+
+Configure ImageDataGenerator Class.
+
+Applying ImageDataGenerator functionality to the trainset and test set.
+
+### Note
+The ImageDataGenerator accepts the original data, randomly transforms it, and returns only the new, transformed data.
+Lets build model for fruit leaf disease detection
+Open Jupyter notebook and create a new python file, name ii Fruit-Training.ipynb and save it in the project folder. To know more about the usage  of the Jupyter notebook watch the video given in the pre-requisites section
