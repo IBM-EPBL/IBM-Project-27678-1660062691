@@ -96,3 +96,23 @@ Applying ImageDataGenerator functionality to the trainset and test set.
 The ImageDataGenerator accepts the original data, randomly transforms it, and returns only the new, transformed data.
 Lets build model for fruit leaf disease detection
 Open Jupyter notebook and create a new python file, name ii Fruit-Training.ipynb and save it in the project folder. To know more about the usage  of the Jupyter notebook watch the video given in the pre-requisites section
+
+## Model Building For Fruit Disease Prediction
+
+We are ready with the augmented and pre-processed image data, Lets begin our model building, this activity includes the following steps
+
+Import the model building Libraries
+
+Initializing the model
+
+Adding CNN Layers
+
+Adding Hidden Layer
+
+Adding Output Layer
+
+Configure the Learning Process
+
+Training and testing the model
+
+Saving the model
